@@ -47,7 +47,7 @@ CNN 特征：LWE 格基加密
 
 #### 项目声明
 - 项目名称：Privacy-Preserving Image Retrieval Scheme Using Combined Features in Cloud Computing
-- 作者：Liang Jing
+- 作者：Liang Jing, Li Peiya
 - 单位：暨南大学网络空间安全学院
 - 开发语言：Python
 - 代码规模：约1200行
